@@ -4,7 +4,7 @@ def shapiro_test(df):
     
     shapiro_pval= shapiro_test.pvalue
 
-    if (shapiro_test.pvalue > 0.05 ):
+    if (shapiro_test.pvalue <= 0.05 ):
         print("The data doesn't follow a normal distribution")
         print("The means are changing")
         print("The shapiro statistic is",shapiro_statistic)
