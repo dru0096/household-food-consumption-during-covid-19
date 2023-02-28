@@ -24,7 +24,7 @@ UK Government Family Food datasets - one of few publicly available data collecte
 2. Statistically significant changes in some categories especially soft drinks, flour and "other food and drinks". 
 Appears to be more treats, snacks (carbs) into the house, as well as tea and coffee - perhaps due to rapid shift towards work from home culture. 
 
-3. Limitations to the survery data:
+3. Limitations to the survey data:
 * Most people do not keep hold of our receipts in this day and age restricts accurate records
 * Sample size = average of 5,000 households each year (is it representative - 1-2% of the total number of UK households)
 
