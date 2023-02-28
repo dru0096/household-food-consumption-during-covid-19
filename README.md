@@ -14,7 +14,7 @@ This project investigates whether people were actually purchasing more at home v
 * Statistical Sample Testing: a) Shapiro Wilk b) Two-tailed Sample Test 
 ## Data source
 UK Government Family Food datasets - one of few publicly available data collected over period of time.
-## Repository Contents
+## Repository Folders/Contents
 1. data-files - contains all the datasets used or created in this project
 2. functions.py - contains importable python functions for data cleaning and statistical tests
 3. notebooks - a) ```cleaning-consumption-data.ipynb ``` and b)  ```hypotheis-testing.ipynb ```
