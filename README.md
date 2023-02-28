@@ -16,14 +16,16 @@ This project investigates whether people were actually purchasing more at home v
 
 * Python
 * Tableau
-* Statistical Sample Testing
+* Statistical Sample Testing: a) Shapiro Wilk b) Two-tailed Sample Test 
 
 
 ## Data source
 UK Government Family Food datasets - one of few publicly available data collected over period of time.
 
 ## Repository Contents
-
+1. data-files - contains all the datasets used or created in this project
+2. functions.py - contains importable python functions for data cleaning and statistical tests
+3. notebooks - a) ```cleaning-consumption-data.ipynb ``` and b)  ```hypotheis-testing.ipynb ```
 
 ## Conclusions
 
@@ -36,6 +38,6 @@ Appears to be more treats, snacks (carbs) into the house, as well as tea and cof
 * Most people do not keep hold of our receipts in this day and age restricts accurate records
 * Sample size = average of 5,000 households each year (is it representative - 1-2% of the total number of UK households)
 
-3. Topic can be researched further by finding data on expenditure, nutritional content, or/and segment population by household income.
+4. Topic can be researched further by finding data on expenditure, nutritional content, or/and segment population by household income.
 
 
