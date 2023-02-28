@@ -24,6 +24,18 @@ UK Government Family Food datasets - one of few publicly available data collecte
 
 ## Repository Contents
 
-## Tableau Presentation:
+
+## Conclusions
+
+1. Most primary food categories did not change significantly e.g. meat. Some households will have massively increased (reduced restaurant and takeaway) and some reduced size of basket (increased costs) so perhaps why most food demand balance out?
+
+2. Statistically significant changes in some categories especially soft drinks, flour and "other food and drinks". 
+Appears to be more treats, snacks (carbs) into the house, as well as tea and coffee - perhaps due to rapid shift towards work from home culture. 
+
+3. Limitations to the survery data:
+* Most people do not keep hold of our receipts in this day and age restricts accurate records
+* Sample size = average of 5,000 households each year (is it representative - 1-2% of the total number of UK households)
+
+3. Topic can be researched further by finding data on expenditure, nutritional content, or/and segment population by household income.
 
 
