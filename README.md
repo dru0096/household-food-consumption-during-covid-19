@@ -1,5 +1,4 @@
-# Household Food Consumption During Covid-19 :basket:
-## Was there a statistically significant change in UK household food consumption during the Covid-19 pandemic? (2019/20)
+# Household Food Consumption During Covid-19 :basket: ## Was there a statistically significant change in UK household food consumption during the Covid-19 pandemic? (2019/20)
 
 ## Background
 This is my mid-bootcamp personal project. The covid lockdowns changed a lot in the food industry including household food consumption. 
